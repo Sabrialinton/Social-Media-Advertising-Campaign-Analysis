@@ -4,7 +4,7 @@
 
 This project analyzes the performance of over 300,000 social media advertising campaigns across platforms like Facebook, Instagram, Twitter, and Pinterest. Using SQL in BigQuery for data exploration and Tableau for visualization, the goal is to uncover which platforms, audiences, and campaign strategies deliver the best return on investment (ROI), engagement, and conversion.
 
-Key Features
+Key Features:
 - ROI and conversion benchmarking across 4 major social media platforms
 - Audience segmentation and campaign performance breakdown
 - SQL-based analysis with cloud-scale querying via BigQuery
@@ -32,5 +32,21 @@ Instagram consistently outperformed other platforms in ROI, clicks, and engageme
 
 ### Recommendations
 
+1. Prioritize Twitter and Instagram Based on Campaign Goal
+- Twitter leads in average ROI for Product Launch and Increase Sales campaigns. Ideal for performance-driven campaigns focused on conversion and revenue.
+- Instagram outperforms other platforms for Brand Awareness and Market Expansion goals. Best suited for campaigns aimed at reach, visibility, and new audience growth.
+Together, Twitter and Instagram provide a powerful, complementary mix—tailor platform selection based on your campaign's objective for maximum ROI.
+
+2. Deprioritize Pinterest as a Marketing Channel
+- Pinterest ranks last in ROI, engagement, impressions, and clicks.
+- Resource allocation toward Pinterest yields diminishing returns and should be reduced or reallocated unless targeting a niche that performs better on that platform.
+
+3. Lean Into High-ROI Audience-Goal Combinations
+
+Focus campaigns around top-performing pairings to maximize impact:
+- Men 45–60 → Product Launch
+- Women 35–44 → Increase Sales
+- Women 25–34 → Brand Awareness
+- All Ages → Market Expansion
 
 
