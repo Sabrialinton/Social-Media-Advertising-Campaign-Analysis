@@ -24,7 +24,19 @@ Key Features:
 
 ### Dashboard Components
 
+Top-Performing Audience and Goal Combinations (by ROI)
+- This heatmap visual highlights which combinations of target audience and campaign goals yield the highest return on investment (ROI).
+
+Average ROI by Channel Used
+- This bar chart compares the average ROI across different social media platforms used in campaigns.
+
+Campaign Goal Effectiveness by Platform
+- This stacked bar chart breaks down how each campaign goal (e.g., Product Launch, Brand Awareness) performs across each platform, using ROI as the metric.
+
 ---
+
+<img width="650" height="695" alt="Social Media Advertising Campaign Analysis" src="https://github.com/user-attachments/assets/56b09f64-9703-4845-aa77-f9ea3602c50a" />
+
 
 ### Key Findings
 
